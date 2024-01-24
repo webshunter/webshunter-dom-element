@@ -1,0 +1,14 @@
+{
+  "name": "webshunter-dom-element",
+  "version": "0.0.3",
+  "description": "dom element",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dom"
+  ],
+  "author": "webshunter",
+  "license": "ISC"
+}
